@@ -518,36 +518,39 @@
                         <a class="btn btn-square btn-primary me-2" href="https://wa.me/8297659213"><i class="fab fa-whatsapp"></i></a>
                     </div>
                 </div>
-                <div class="col-lg-7 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+               <div class="col-lg-7 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <p class="mb-4"></p>
                     <form action="https://formspree.io/f/xwkjqeyb" method="POST" role="form" class="email-form">
                         <div class="row g-3">
                             <div class="col-md-6">
                                 <div class="form-floating">
-                                    <input type="text" class="form-control" id="name" placeholder="Your Name">
+                                    <input type="text" class="form-control" name="name" id="name" placeholder="Your Name" required>
                                     <label for="name">Your Name</label>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="form-floating">
-                                    <input type="email" class="form-control" id="email" placeholder="Your Email">
+                                    <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
                                     <label for="email">Your Email</label>
                                 </div>
                             </div>
                             <div class="col-12">
                                 <div class="form-floating">
-                                    <input type="text" class="form-control" id="context" placeholder="Subject">
+                                    
+                                    <input type="text" class="form-control" name="context" id="context" placeholder="Subject" required>
                                     <label for="context">Subject</label>
                                 </div>
                             </div>
                             <div class="col-12">
                                 <div class="form-floating">
-                                    <textarea class="form-control" placeholder="Leave a message here" id="message" style="height: 100px"></textarea>
+                                    
+                                    <textarea class="form-control" placeholder="Leave a message here" name="message" id="message" style="height: 100px" required></textarea>
                                     <label for="message">Message</label>
                                 </div>
+                               
                             </div>
                             <div class="col-12">
-                                <button  class="btn btn-primary py-3 px-5" href="https://formspree.io/f/xwkjqeyb" type="submit">Send Message</button>
+                                <button class="btn btn-primary py-3 px-5" href="https://formspree.io/f/xwkjqeyb" type="submit">Send Message</button>
                             </div>
                         </div>
                     </form>
