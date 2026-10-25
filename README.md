@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi, I'm Mohsin Khan Shaik 👋</h1>
 
 <h3 align="center">
@@ -9,6 +8,28 @@ AI Infrastructure Engineer | Site Reliability Engineer | Cloud & DevOps | GenAI 
 I build reliable web systems, cloud infrastructure, automation workflows, and AI-ready platforms.
 My focus is on practical engineering: scalable backends, clean deployments, observability, automation, and business-focused technology.
 </p>
+
+---
+
+## 🌟 Featured project: HAYAT
+
+<p align="center">
+  <a href="https://github.com/mohsinkhanshaik/HAYAT">
+    <img src="https://raw.githubusercontent.com/mohsinkhanshaik/HAYAT/main/docs/images/home.png" alt="HAYAT, a private local-first AI assistant" width="720" />
+  </a>
+</p>
+
+**[HAYAT](https://github.com/mohsinkhanshaik/HAYAT)** is a private, local-first AI assistant for Windows that I created
+and released as open source. It runs entirely on your own computer — a local language model, voice, web research
+with sources, computer control, image and video generation, and long-term memory — with no cloud account and no
+cost.
+
+- ⭐ Code: [github.com/mohsinkhanshaik/HAYAT](https://github.com/mohsinkhanshaik/HAYAT) (AGPL-3.0, 7,865 automated tests)
+- 🤗 Models: [HAYAT-35B-A3B-Uncensored-GGUF](https://huggingface.co/Mohsinkhanshaik/HAYAT-35B-A3B-Uncensored-GGUF) ·
+  [HAYAT-Open-4B](https://huggingface.co/Mohsinkhanshaik/HAYAT-Open-4B)
+- 💬 Talk to me about it: [HAYAT Discussions](https://github.com/mohsinkhanshaik/HAYAT/discussions)
+- 🛠️ Help build it: [roadmap](https://github.com/mohsinkhanshaik/HAYAT/blob/main/ROADMAP.md) ·
+  [good first issues](https://github.com/mohsinkhanshaik/HAYAT/labels/good%20first%20issue)
 
 ---
 
@@ -133,7 +154,7 @@ Technology and automation experiments for fashion, e-commerce, branding, product
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.mohsinkhan-shaik.com">
+  <a href="https://mohsinkhanshaik.com/">
     <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=googlechrome" />
   </a>
   <a href="https://www.linkedin.com/in/mohsin-khan-shaik-972817213/">
@@ -173,4 +194,3 @@ Technology and automation experiments for fashion, e-commerce, branding, product
 To build reliable, scalable, and intelligent systems that connect software engineering, AI infrastructure, automation, and real business use cases.
 
 I believe technology should not just look impressive. It should work, scale, automate, and solve actual problems.
-```
