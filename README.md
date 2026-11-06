@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I'm Mohsin Khan Shaik 👋</h1>
 
+
+**Official website: [mohsinkhanshaik.com](https://mohsinkhanshaik.com/)**
+
+Public project code: [HAYAT](https://github.com/mohsinkhanshaik/HAYAT) · [Cloud-Native AI Platform](https://github.com/mohsinkhanshaik/cloud-native-ai-platform)
 <h3 align="center">
 AI Infrastructure Engineer | Site Reliability Engineer | Cloud & DevOps | GenAI Infrastructure | Founder @ Hamuzair
 </h3>
